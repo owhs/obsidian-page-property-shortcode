@@ -1,0 +1,10 @@
+{
+	"id": "page-property-shortcode",
+	"name": "Page Property Shortcode",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.11",
+	"description": "Reference a page property that renders the property value, usage: '@Folder/Page:Property'",
+	"author": "owhs",
+	"authorUrl": "https://github.com/owhs",
+	"isDesktopOnly": true
+}
